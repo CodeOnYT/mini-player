@@ -22,7 +22,7 @@ new Vue({
           artist: "Tulsiram Methre",
           cover: "https://raw.githubusercontent.com/CodeOnYT/mini-player/master/img/2.png",
           source: "https://raw.githubusercontent.com/CodeOnYT/mini-player/master/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=lTd3ss7Txbg",
+          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: false
         }
       ],
